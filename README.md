@@ -14,4 +14,4 @@ In order to install `stataMisc` from github the github-package is required:
 
 You can then install the development version of `stataMisc` with:
 
-	github install CTU-Bern/stataMisc
+	github install dcr-unibe-ch/stataMisc
